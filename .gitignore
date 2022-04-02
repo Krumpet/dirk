@@ -1,0 +1,9 @@
+/shelf/
+/workspace.xml
+build/
+.gradle/
+gradle/
+gradlew.bat
+gradlew
+.idea/
+generated-sources/
